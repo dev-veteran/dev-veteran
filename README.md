@@ -7,7 +7,7 @@
   
    🚀 I'm a 18 year old programmer & future full stack developer.
    <br>
-   🎨 I also have a huge interest in graphics design, i'm in love with giving breath to art.
+   🎨 I also have a huge interest in graphics design, I'm in love with giving breath to art.
    <br>
    🌴 In my free time I pursue my other hobbies such as drawing and making music.
    <br>

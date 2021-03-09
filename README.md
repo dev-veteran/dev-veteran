@@ -24,6 +24,7 @@
   <h3>Working Platforms</h3>
 
   ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=00adef)
+  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 
   <div>
    <img height=180 src="https://github-readme-stats.vercel.app/api?username=dev-veteran&count_private=true&theme=radical&show_icons=true">

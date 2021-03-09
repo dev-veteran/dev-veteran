@@ -5,7 +5,7 @@
    
   <h3>About Me</h3>
   
-   🚀 I'm a 18 year old programmer & future full stack developer from Turkey.
+   🚀 I'm a 18 year old programmer & future full stack developer.
    <br>
    🎨 I also have a huge interest in graphics design, i'm in love with giving a breath to art.
    <br>

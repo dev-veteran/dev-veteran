@@ -22,8 +22,8 @@
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
   
   <div>
-   <img height=170 src="https://github-readme-stats.vercel.app/api?username=dev-veteran&count_private=true&theme=radical&show_icons=true">
-   <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-veteran&theme=radical">
+   <img height=180 src="https://github-readme-stats.vercel.app/api?username=dev-veteran&count_private=true&theme=radical&show_icons=true">
+   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-veteran&theme=radical">
   </div>
   
 </div>

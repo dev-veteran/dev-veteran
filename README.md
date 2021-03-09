@@ -21,6 +21,10 @@
   ![C#](https://img.shields.io/badge/-C%23-000?&logo=C-sharp&logoColor=198c20)
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
   
+  <h3>Working Platforms</h3>
+  ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=00adef)
+  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
   <div>
    <img height=180 src="https://github-readme-stats.vercel.app/api?username=dev-veteran&count_private=true&theme=radical&show_icons=true">
    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-veteran&theme=radical">

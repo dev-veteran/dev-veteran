@@ -15,7 +15,7 @@
   <h3>Working Platforms</h3>
 
   ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=00adef)
-  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
   <h3>Main Languages and General Statistics</h3>
 

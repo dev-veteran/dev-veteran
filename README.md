@@ -5,7 +5,7 @@
    
   <h3>About Me</h3>
   
-   🚀 I'm a 19 year old programmer & future full stack developer.
+   🚀 I'm a 21 year old programmer & future full stack developer.
    <br>
    🎨 I also have a huge interest in graphics design, I'm in love with giving breath to art.
    <br>
